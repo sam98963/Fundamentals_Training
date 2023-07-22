@@ -27,3 +27,8 @@ Sum of Multiples
 Turkish Numbers 0-99
 22/07/23
 
+### Kata_007 ###
+6 kyu
+Count Characters in your string
+22/07/23
+
