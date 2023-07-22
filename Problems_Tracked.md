@@ -17,3 +17,13 @@ Leap Years
 Two Numbers Are Positive
 21/07/23
 
+### Kata_005 ###
+8 kyu
+Sum of Multiples
+22/07/23
+
+### Kata_006 ###
+7 kyu
+Turkish Numbers 0-99
+22/07/23
+
