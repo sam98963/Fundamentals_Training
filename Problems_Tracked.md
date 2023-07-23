@@ -51,3 +51,8 @@ Upstream/Downstream
 7 kyu
 Help Suzuki count his vegetables
 23/07/23
+
+### Kata_012 ###
+7 kyu
+Who Took the car key - learnt about parseInt() and .fromCharCode()
+23/07/23
