@@ -32,3 +32,8 @@ Turkish Numbers 0-99
 Count Characters in your string
 22/07/23
 
+### Kata_007 ###
+8 kyu
+Who ate the cookie?
+23/07/23
+
