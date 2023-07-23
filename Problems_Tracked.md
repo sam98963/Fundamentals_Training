@@ -41,3 +41,8 @@ Who ate the cookie?
 7 kyu
 Suzuki needs help lining up his students!
 23/07/23
+
+### Kata_010 ###
+7 kyu
+Upstream/Downstream
+23/07/23
