@@ -32,8 +32,12 @@ Turkish Numbers 0-99
 Count Characters in your string
 22/07/23
 
-### Kata_007 ###
+### Kata_008 ###
 8 kyu
 Who ate the cookie?
 23/07/23
 
+### Kata_009 ###
+7 kyu
+Suzuki needs help lining up his students!
+23/07/23
