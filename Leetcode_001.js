@@ -3,22 +3,37 @@
  * @return {number[][]}
  */
 var threeSum = function(nums) {
-    nums.sort((a,b)=>a-b)
-    let arr = []
-   for (let i = 0; i<nums.length; i++){
-       for (let j = i+1; j<nums.length; j++){
-           for (let k = j+1; k<nums.length; k++){
-               if (nums[i]+nums[k]+nums[j]===0){
-                   const tripletStr =[nums[i], nums[j], nums[k]].sort((a,b)=>a-b).toString()
-                //    Needs to be string to use .includes() properly.
-                   if(!arr.includes(tripletStr)){
-                       arr.push(tripletStr)
-               }
-               }
-           }
-       }
-   } 
-//    all are strings, map over to convert each back into array of arrays.
-//    map to return all string values to number
-   return arr.map(tripletStr=>tripletStr.split(",").map(Number));
+  nums.sort((a, b) => a - b);
+  const arr = [];
+
+  for (let i = 0; i < nums.length - 2; i++) {
+      // Skip duplicates for the first element
+      if (i === 0 || (i > 0 && nums[i] !== nums[i - 1])) {
+          // left starts as (j)
+          let left = i + 1;
+          // Right starts at end
+          let right = nums.length - 1;
+          // left + right needs to equal target
+          const target = 0 - nums[i];
+
+          while (left < right) {
+              const sum = nums[left] + nums[right]; 
+              if (sum === target) {
+                  arr.push([nums[i], nums[left], nums[right]]);
+                  // Skip duplicates for the second element
+                  while (left < right && nums[left] === nums[left + 1]) left++;
+                  // Skip duplicates for the third element
+                  while (left < right && nums[right] === nums[right - 1]) right--;
+                  left++;
+                  right--;
+              } else if (sum < target) {
+                  left++;
+              } else {
+                  right--;
+              }
+          }
+      }
+  }
+
+  return arr;
 };
