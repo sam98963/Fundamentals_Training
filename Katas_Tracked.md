@@ -62,7 +62,13 @@ Who Took the car key - learnt about parseInt() and .fromCharCode()
 Highest Scoring Word
 24/07/23
 
-### Kata_013 ###
+### Kata_014 ###
 7 kyu
 Help Suzuki rake his garden
 24/07/23
+
+### Kata_015 ###
+6 kyu
+Help Suzuki purchase his tofu
+24/07/23
+
