@@ -56,3 +56,8 @@ Help Suzuki count his vegetables
 7 kyu
 Who Took the car key - learnt about parseInt() and .fromCharCode()
 23/07/23
+
+### Kata_013 ###
+6 kyu
+Highest Scoring Word
+24/07/23
