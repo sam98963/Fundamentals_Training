@@ -72,3 +72,8 @@ Help Suzuki rake his garden
 Help Suzuki purchase his tofu
 24/07/23
 
+### Kata_016 ###
+7 kyu
+Reverse Words - ONE LINER COME ON
+24/07/23
+
