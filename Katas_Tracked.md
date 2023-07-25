@@ -77,3 +77,8 @@ Help Suzuki purchase his tofu
 Reverse Words - ONE LINER COME ON
 24/07/23
 
+### Kata_017 ###
+7 kyu
+Filter list
+25/07/23
+
