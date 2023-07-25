@@ -87,3 +87,8 @@ Filter list
 Who is paying for the wall?
 25/07/23
 
+### Kata_019 ###
+8 kyu
+Strings Reversed
+25/07/23
+
