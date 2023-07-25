@@ -82,3 +82,8 @@ Reverse Words - ONE LINER COME ON
 Filter list
 25/07/23
 
+### Kata_018 ###
+8 kyu
+Who is paying for the wall?
+25/07/23
+
