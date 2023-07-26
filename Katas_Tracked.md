@@ -92,3 +92,8 @@ Who is paying for the wall?
 Strings Reversed
 25/07/23
 
+### Kata_020 ###
+7 kyu
+Battle of the Character
+26/07/23
+
