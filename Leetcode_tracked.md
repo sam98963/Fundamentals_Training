@@ -11,3 +11,7 @@ Easy<br>
 Very Very Easy<br>
 Return Length of Arguments Passes<br>
 27/07/23
+### Leetcode 004
+Easy<br>
+Convert the temperature (to *10^-5 accuracy)<br>
+27/07/23
