@@ -102,3 +102,8 @@ Battle of the Character
 Arr.diff
 27/07/23
 
+### Kata_020 ###
+6 kyu
+Simple Fun: Typist
+27/07/23
+
