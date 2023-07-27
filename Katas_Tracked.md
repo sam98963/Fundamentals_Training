@@ -97,3 +97,8 @@ Strings Reversed
 Battle of the Character
 26/07/23
 
+### Kata_020 ###
+6 kyu
+Arr.diff
+27/07/23
+
