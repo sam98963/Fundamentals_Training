@@ -1,109 +1,109 @@
-### Kata_001 ###
-7 kyu
-Find the capitals
+### Kata_001 
+7 kyu <br>
+Find the capitals<br>
 21/07/23
-### Kata_002 ###
-7 kyu
-Find the divisors!
-21/07/23
-
-### Kata_003 ###
-7 kyu
-Leap Years
+### Kata_002 
+7 kyu <br>
+Find the divisors!<br>
 21/07/23
 
-### Kata_004 ###
-7 kyu
-Two Numbers Are Positive
+### Kata_003 
+7 kyu <br>
+Leap Years<br>
 21/07/23
 
-### Kata_005 ###
-8 kyu
-Sum of Multiples
+### Kata_004 
+7 kyu <br>
+Two Numbers Are Positive<br>
+21/07/23
+
+### Kata_005 
+8 kyu <br>
+Sum of Multiples<br>
 22/07/23
 
-### Kata_006 ###
-7 kyu
-Turkish Numbers 0-99
+### Kata_006 
+7 kyu <br>
+Turkish Numbers 0-99<br>
 22/07/23
 
-### Kata_007 ###
-6 kyu
-Count Characters in your string
+### Kata_007 
+6 kyu <br>
+Count Characters in your string<br>
 22/07/23
 
-### Kata_008 ###
-8 kyu
-Who ate the cookie?
+### Kata_008 
+8 kyu <br>
+Who ate the cookie?<br>
 23/07/23
 
-### Kata_009 ###
-7 kyu
-Suzuki needs help lining up his students!
+### Kata_009 
+7 kyu <br>
+Suzuki needs help lining up his students!<br>
 23/07/23
 
-### Kata_010 ###
-7 kyu
-Upstream/Downstream
+### Kata_010 
+7 kyu <br>
+Upstream/Downstream<br>
 23/07/23
 
-### Kata_011 ###
-7 kyu
-Help Suzuki count his vegetables
+### Kata_011 
+7 kyu <br>
+Help Suzuki count his vegetables<br>
 23/07/23
 
-### Kata_012 ###
-7 kyu
-Who Took the car key - learnt about parseInt() and .fromCharCode()
+### Kata_012 
+7 kyu <br>
+Who Took the car key - learnt about parseInt() and .fromCharCode()<br>
 23/07/23
 
-### Kata_013 ###
-6 kyu
-Highest Scoring Word
+### Kata_013 
+6 kyu <br>
+Highest Scoring Word<br>
 24/07/23
 
-### Kata_014 ###
-7 kyu
-Help Suzuki rake his garden
+### Kata_014 
+7 kyu <br>
+Help Suzuki rake his garden<br>
 24/07/23
 
-### Kata_015 ###
-6 kyu
-Help Suzuki purchase his tofu
+### Kata_015 
+6 kyu <br>
+Help Suzuki purchase his tofu<br>
 24/07/23
 
-### Kata_016 ###
-7 kyu
-Reverse Words - ONE LINER COME ON
+### Kata_016 
+7 kyu <br>
+Reverse Words - ONE LINER COME ON<br>
 24/07/23
 
-### Kata_017 ###
-7 kyu
-Filter list
+### Kata_017 
+7 kyu <br>
+Filter list 
 25/07/23
 
-### Kata_018 ###
-8 kyu
-Who is paying for the wall?
+### Kata_018 
+8 kyu <br>
+Who is paying for the wall? <br>
 25/07/23
 
-### Kata_019 ###
-8 kyu
-Strings Reversed
+### Kata_019 
+8 kyu <br>
+Strings Reversed <br>
 25/07/23
 
-### Kata_020 ###
-7 kyu
-Battle of the Character
+### Kata_020 
+7 kyu <br>
+Battle of the Character <br>
 26/07/23
 
-### Kata_020 ###
-6 kyu
-Arr.diff
+### Kata_021
+6 kyu <br>
+Arr.diff <br>
 27/07/23
 
-### Kata_020 ###
-6 kyu
-Simple Fun: Typist
+### Kata_022
+6 kyu <br>
+Simple Fun: Typist <br>
 27/07/23
 
