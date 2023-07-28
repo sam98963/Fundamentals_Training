@@ -112,3 +112,8 @@ Simple Fun: Typist <br>
 Is a number prime? <br>
 28/07/23
 
+### Kata_024
+7 kyu <br>
+The Poet and the Pendulum <br>
+28/07/23
+
