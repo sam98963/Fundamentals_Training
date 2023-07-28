@@ -107,3 +107,8 @@ Arr.diff <br>
 Simple Fun: Typist <br>
 27/07/23
 
+### Kata_023
+6 kyu <br>
+Is a number prime? <br>
+28/07/23
+
