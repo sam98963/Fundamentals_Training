@@ -21,3 +21,8 @@ Easy<br>
 Palindrome Number<br>
 29/07/23<br>
 .reverse() alters origional array, must make a copy first and then reverse.
+
+### Leetcode 005
+Easy<br>
+Longest Common Prefix<br>
+29/07/23<br>
