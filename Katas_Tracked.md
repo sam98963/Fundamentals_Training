@@ -117,8 +117,13 @@ Is a number prime? <br>
 The Poet and the Pendulum <br>
 28/07/23
 
-### Kata_024
+### Kata_025
 6 kyu <br>
 CamelCase Method <br>
 29/07/23
+
+### Kata_026
+7 kyu <br>
+X marks the spot <br>
+30/07/23
 
