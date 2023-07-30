@@ -127,3 +127,8 @@ CamelCase Method <br>
 X marks the spot <br>
 30/07/23
 
+### Kata_026
+7 kyu <br>
+ToLeetSpeak <br>
+30/07/23
+
