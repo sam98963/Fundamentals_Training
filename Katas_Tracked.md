@@ -132,3 +132,8 @@ X marks the spot <br>
 ToLeetSpeak <br>
 30/07/23
 
+### Kata_027
+7 kyu <br>
+Maximum Multiple <br>
+31/07/23
+
