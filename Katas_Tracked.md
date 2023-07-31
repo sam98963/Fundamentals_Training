@@ -136,4 +136,16 @@ ToLeetSpeak <br>
 7 kyu <br>
 Maximum Multiple <br>
 31/07/23
+### Kata_028
+
+7 kyu <br>
+Maximum Multiple <br>
+31/07/23
+
+### Kata_029
+7 kyu <br>
+Remove anchor from url <br>
+31/07/23
+
+
 
