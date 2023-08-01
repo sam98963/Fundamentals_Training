@@ -147,5 +147,15 @@ Maximum Multiple <br>
 Remove anchor from url <br>
 31/07/23
 
+### Kata_030
+7 kyu <br>
+Triangular Treasure <br>
+01/08/23
+
+### Kata_031
+8 kyu <br>
+Add length <br>
+01/08/23
+
 
 

@@ -22,7 +22,13 @@ Palindrome Number<br>
 29/07/23<br>
 .reverse() alters origional array, must make a copy first and then reverse.
 
-### Leetcode 005
+### Leetcode 006
 Easy<br>
 Longest Common Prefix<br>
 29/07/23<br>
+
+### Leetcode 007
+Easy<br>
+Sleep<br>
+01/08/23<br>
+Resolve is an inbuild js function that fulfills a promise.
