@@ -158,4 +158,10 @@ Add length <br>
 01/08/23
 
 
+### Kata_032
+7 kyu <br>
+Weight of its Contents <br>
+03/08/23
+
+
 
