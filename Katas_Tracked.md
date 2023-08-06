@@ -189,6 +189,11 @@ Credit Card Mask <br>
 Max Diff easy<br>
 06/08/23
 
+### Kata_038
+7 kyu <br>
+Switcheroo<br>
+06/08/23
+
 
 
 
