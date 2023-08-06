@@ -179,5 +179,10 @@ Ones and Zeros <br>
 Printer Errors <br>
 06/08/23
 
+### Kata_036
+7 kyu <br>
+Credit Card Mask <br>
+06/08/23
+
 
 
