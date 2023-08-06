@@ -169,10 +169,15 @@ Not Very Secure <br>
 03/08/23<br>
 Used .test() which validates a regex arguement.
 
-### Kata_033
+### Kata_034
 7 kyu <br>
 Ones and Zeros <br>
 05/08/23
+
+### Kata_035
+7 kyu <br>
+Printer Errors <br>
+06/08/23
 
 
 
