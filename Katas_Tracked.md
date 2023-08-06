@@ -184,5 +184,11 @@ Printer Errors <br>
 Credit Card Mask <br>
 06/08/23
 
+### Kata_037
+7 kyu <br>
+Max Diff easy<br>
+06/08/23
+
+
 
 
