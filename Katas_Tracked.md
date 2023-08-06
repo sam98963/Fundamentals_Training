@@ -194,6 +194,11 @@ Max Diff easy<br>
 Switcheroo<br>
 06/08/23
 
+### Kata_039
+7 kyu <br>
+Testing 1-2-3<br>
+06/08/23
+
 
 
 
