@@ -204,10 +204,17 @@ Testing 1-2-3<br>
 Growth of a Population<br>
 06/08/23
 
-### Kata_040
+### Kata_041
 7 kyu <br>
 The Old Switcheroo<br>
 08/08/23
+
+### Kata_042
+8 kyu <br>
+Jenny's Secret Message<br>
+08/08/23
+
+
 
 
 
