@@ -214,6 +214,11 @@ The Old Switcheroo<br>
 Jenny's Secret Message<br>
 08/08/23
 
+### Kata_043
+7 kyu <br>
+Is n divisible by (...)?<br>
+10/08/23
+
 
 
 
