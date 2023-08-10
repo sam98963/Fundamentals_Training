@@ -219,6 +219,11 @@ Jenny's Secret Message<br>
 Is n divisible by (...)?<br>
 10/08/23
 
+### Kata_044
+7 kyu <br>
+Filter the Number<br>
+10/08/23
+
 
 
 
