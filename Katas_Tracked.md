@@ -226,7 +226,12 @@ Filter the Number<br>
 
 ### Kata_045
 7 kyu <br>
-The mean of two meansr<br>
+The mean of two means<br>
+14/08/23
+
+### Kata_046
+7 kyu <br>
+The old switcheroo 2<br>
 14/08/23
 
 
