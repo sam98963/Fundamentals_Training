@@ -224,6 +224,11 @@ Is n divisible by (...)?<br>
 Filter the Number<br>
 10/08/23
 
+### Kata_045
+7 kyu <br>
+The mean of two meansr<br>
+14/08/23
+
 
 
 
