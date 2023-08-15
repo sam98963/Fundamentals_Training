@@ -234,6 +234,16 @@ The mean of two means<br>
 The old switcheroo 2<br>
 14/08/23
 
+### Kata_047
+7 kyu <br>
+The old switcheroo 2<br>
+14/08/23
+
+### Kata_048
+7 kyu <br>
+DropCaps<br>
+15/08/23
+
 
 
 
