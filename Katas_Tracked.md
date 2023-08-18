@@ -250,8 +250,13 @@ Are they the "same"<br>
 15/08/23
 
 ### Kata_049
-6 kyu <br>
+7 kyu <br>
 Selective fear of numbers<br>
+18/08/23
+
+### Kata_050
+7 kyu <br>
+Double Char<br>
 18/08/23
 
 
