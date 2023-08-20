@@ -269,6 +269,11 @@ Tail Swap<br>
 Jaden Casing<br>
 20/08/23
 
+### Kata_053
+7 kyu <br>
+Eliminate the Intruders! bit manipulation<br>
+20/08/23
+
 
 
 
