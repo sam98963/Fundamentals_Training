@@ -32,3 +32,8 @@ Easy<br>
 Sleep<br>
 01/08/23<br>
 Resolve is an inbuild js function that fulfills a promise.
+
+### Leetcode 007
+Easy<br>
+Remove Element<br>
+20/08/23<br>
