@@ -42,3 +42,8 @@ Remove Element<br>
 Easy<br>
 Add One<br>
 21/08/23<br>
+
+### Leetcode 010
+Easy<br>
+Sqrt(x)<br>
+21/08/23<br>
