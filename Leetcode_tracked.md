@@ -52,3 +52,8 @@ Sqrt(x)<br>
 Easy<br>
 Duplicate Emails (SQL)<br>
 22/08/23<br>
+
+### Leetcode 012
+Easy<br>
+Customers Who Never Order (SQL)<br>
+22/08/23<br>
