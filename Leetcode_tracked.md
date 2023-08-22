@@ -47,3 +47,8 @@ Add One<br>
 Easy<br>
 Sqrt(x)<br>
 21/08/23<br>
+
+### Leetcode 011
+Easy<br>
+Duplicate Emails (SQL)<br>
+22/08/23<br>
