@@ -279,6 +279,11 @@ Eliminate the Intruders! bit manipulation<br>
 What time is it?<br>
 23/08/23
 
+### Kata_055
+6 kyu <br>
+Three Added Characters<br>
+23/08/23
+
 
 
 
