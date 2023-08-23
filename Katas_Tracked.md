@@ -274,6 +274,11 @@ Jaden Casing<br>
 Eliminate the Intruders! bit manipulation<br>
 20/08/23
 
+### Kata_054
+7 kyu <br>
+What time is it?<br>
+23/08/23
+
 
 
 
