@@ -57,3 +57,9 @@ Duplicate Emails (SQL)<br>
 Easy<br>
 Customers Who Never Order (SQL)<br>
 22/08/23<br>
+
+### Leetcode 013
+Easy<br>
+Single Number<br>
+22/08/23<br>
+Read into XOR-ing using the (^) operator.
