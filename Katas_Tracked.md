@@ -289,6 +289,11 @@ Three Added Characters<br>
 Finding Integer Sequences<br>
 26/08/23
 
+### Kata_057
+5 kyu <br>
+The Hashtag Generator<br>
+26/08/23
+
 
 
 
