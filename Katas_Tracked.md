@@ -294,6 +294,11 @@ Finding Integer Sequences<br>
 The Hashtag Generator<br>
 26/08/23
 
+### Kata_058
+8 kyu <br>
+Remove the duplicates<br>
+26/08/23
+
 
 
 
