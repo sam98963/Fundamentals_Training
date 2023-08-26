@@ -284,6 +284,11 @@ What time is it?<br>
 Three Added Characters<br>
 23/08/23
 
+### Kata_056
+6 kyu <br>
+Finding Integer Sequences<br>
+26/08/23
+
 
 
 
