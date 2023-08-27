@@ -299,6 +299,11 @@ The Hashtag Generator<br>
 Remove the duplicates<br>
 26/08/23
 
+### Kata_058
+6 kyu <br>
+Duplicate Encoder<br>
+27/08/23
+
 
 
 
