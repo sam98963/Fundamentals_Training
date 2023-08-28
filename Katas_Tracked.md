@@ -309,6 +309,11 @@ Duplicate Encoder<br>
 Array Element Parity<br>
 27/08/23
 
+### Kata_061
+7 kyu <br>
+Sum of the first nth term of series<br>
+28/08/23
+
 
 
 
