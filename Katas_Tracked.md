@@ -314,6 +314,11 @@ Array Element Parity<br>
 Sum of the first nth term of series<br>
 28/08/23
 
+### Kata_062
+5 kyu <br>
+Rot13<br>
+28/08/23
+
 
 
 
