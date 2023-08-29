@@ -69,8 +69,14 @@ Easy<br>
 Find the index of the first occurence within a string<br>
 26/08/23<br>
 
-### Leetcode 014
+### Leetcode 015
 Easy<br>
 Counter<br>
 27/08/23<br>
 Learnt about "closure" and more about variable scopes within embedded functions<br>
+
+### Leetcode 016
+Easy<br>
+Employees that earn more than their managers<br>
+29/08/23<br>
+Combining a single table with itself using alliases<br>
