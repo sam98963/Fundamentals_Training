@@ -319,6 +319,11 @@ Sum of the first nth term of series<br>
 Rot13<br>
 28/08/23
 
+### Kata_063
+6 kyu <br>
+Longest Collatz<br>
+29/08/23
+
 
 
 
