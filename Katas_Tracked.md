@@ -324,6 +324,11 @@ Rot13<br>
 Longest Collatz<br>
 29/08/23
 
+### Kata_064
+6 kyu <br>
+Min Facor Distance<br>
+29/08/23
+
 
 
 
