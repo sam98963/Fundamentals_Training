@@ -329,6 +329,11 @@ Longest Collatz<br>
 Min Facor Distance<br>
 29/08/23
 
+### Kata_064
+6 kyu <br>
+Persistent Bugger. (name of the kata lol)<br>
+30/08/23
+
 
 
 
