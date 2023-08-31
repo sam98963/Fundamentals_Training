@@ -339,6 +339,11 @@ Persistent Bugger. (name of the kata lol)<br>
 Your order, please<br>
 31/08/23
 
+### Kata_067
+6 kyu <br>
+Write Number in expanded form<br>
+31/08/23
+
 
 
 
