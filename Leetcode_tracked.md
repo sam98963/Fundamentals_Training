@@ -80,3 +80,8 @@ Easy<br>
 Employees that earn more than their managers<br>
 29/08/23<br>
 Combining a single table with itself using alliases<br>
+
+### Leetcode 016
+Easy<br>
+Contains Duplicates<br>
+02/09/23<br>
