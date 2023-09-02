@@ -81,7 +81,13 @@ Employees that earn more than their managers<br>
 29/08/23<br>
 Combining a single table with itself using alliases<br>
 
-### Leetcode 016
+### Leetcode 017
 Easy<br>
 Contains Duplicates<br>
 02/09/23<br>
+
+### Leetcode 018
+Easy<br>
+Valid Anagram<br>
+02/09/23<br>
+Use object[key] = (object[key] || 0) + 1 ------> To test if the key within the object has a value, if not establish that key with the value 0 and add one for one occurence.<br>
