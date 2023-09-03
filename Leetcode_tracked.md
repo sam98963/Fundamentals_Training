@@ -96,3 +96,8 @@ Use object[key] = (object[key] || 0) + 1 ------> To test if the key within the o
 Easy<br>
 Jewels and Stones<br>
 03/09/23<br>
+
+### Leetcode 020
+Easy<br>
+How many numbers are smaller than the current number<br>
+03/09/23<br>
