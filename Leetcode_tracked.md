@@ -91,3 +91,8 @@ Easy<br>
 Valid Anagram<br>
 02/09/23<br>
 Use object[key] = (object[key] || 0) + 1 ------> To test if the key within the object has a value, if not establish that key with the value 0 and add one for one occurence.<br>
+
+### Leetcode 019
+Easy<br>
+Jewels and Stones<br>
+03/09/23<br>
