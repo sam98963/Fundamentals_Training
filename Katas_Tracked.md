@@ -349,6 +349,11 @@ Write Number in expanded form<br>
 Sort only the odds<br>
 2/09/23
 
+### Kata_069
+6 kyu <br>
+Build Tower<br>
+4/09/23
+
 
 
 
