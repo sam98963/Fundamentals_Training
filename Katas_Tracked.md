@@ -359,6 +359,11 @@ Build Tower<br>
 Break camelCase<br>
 06/09/23
 
+### Kata_071
+5 kyu <br>
+Product of consecutive fib numbers<br>
+07/09/23
+
 
 
 
