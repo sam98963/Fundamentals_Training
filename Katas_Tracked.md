@@ -369,6 +369,12 @@ Product of consecutive fib numbers<br>
 Small Enough?<br>
 17/09/23
 
+### Kata_073
+6 kyu <br>
+Detect Panagram<br>
+17/09/23<br>
+Cannot directly do object.length.
+
 
 
 
