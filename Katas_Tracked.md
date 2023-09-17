@@ -364,6 +364,11 @@ Break camelCase<br>
 Product of consecutive fib numbers<br>
 07/09/23
 
+### Kata_072
+7 kyu <br>
+Small Enough?<br>
+17/09/23
+
 
 
 
