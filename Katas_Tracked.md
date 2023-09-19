@@ -375,6 +375,11 @@ Detect Panagram<br>
 17/09/23<br>
 Cannot directly do object.length.
 
+### Kata_074
+6 kyu <br>
+Delete occurrences of an element if it occurs more than n times<br>
+19/09/23<br>
+
 
 
 
