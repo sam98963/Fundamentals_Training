@@ -380,6 +380,11 @@ Cannot directly do object.length.
 Delete occurrences of an element if it occurs more than n times<br>
 19/09/23<br>
 
+### Kata_074
+6 kyu <br>
+Find the Odd Int<br>
+25/09/23<br>
+
 
 
 
