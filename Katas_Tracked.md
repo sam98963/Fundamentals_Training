@@ -385,9 +385,14 @@ Delete occurrences of an element if it occurs more than n times<br>
 Find the Odd Int<br>
 25/09/23<br>
 
-### Kata_074
+### Kata_075
 6 kyu <br>
 Unique in Order<br>
+28/09/23<br>
+
+### Kata_076
+7 kyu <br>
+Isograms<br>
 28/09/23<br>
 
 
