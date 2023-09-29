@@ -405,6 +405,11 @@ Form the minimum<br>
 Fold an Array<br>
 29/09/23<br>
 
+### Kata_078
+7 kyu <br>
+Numbers in Strings<br>
+29/09/23<br>
+
 
 
 
