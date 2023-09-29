@@ -395,9 +395,14 @@ Unique in Order<br>
 Isograms<br>
 28/09/23<br>
 
-### Kata_077
+### Kata_078
 7 kyu <br>
 Form the minimum<br>
+29/09/23<br>
+
+### Kata_079
+6 kyu <br>
+Fold an Array<br>
 29/09/23<br>
 
 
