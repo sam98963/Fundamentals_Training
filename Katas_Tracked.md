@@ -415,6 +415,11 @@ Numbers in Strings<br>
 Alternate Capitalisation<br>
 1/10/23<br>
 
+### Kata_082
+6 kyu <br>
+Convert String to Camel Case<br>
+1/10/23<br>
+
 
 
 
