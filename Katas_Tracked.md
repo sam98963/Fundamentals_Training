@@ -405,10 +405,15 @@ Form the minimum<br>
 Fold an Array<br>
 29/09/23<br>
 
-### Kata_078
+### Kata_080
 7 kyu <br>
 Numbers in Strings<br>
 29/09/23<br>
+
+### Kata_081
+7 kyu <br>
+Alternate Capitalisation<br>
+1/10/23<br>
 
 
 
