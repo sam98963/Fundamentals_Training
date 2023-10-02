@@ -420,6 +420,11 @@ Alternate Capitalisation<br>
 Convert String to Camel Case<br>
 1/10/23<br>
 
+### Kata_083
+7 kyu <br>
+Money Money Money<br>
+2/10/23<br>
+
 
 
 
