@@ -430,6 +430,11 @@ Money Money Money<br>
 Number-star ladder<br>
 2/10/23<br>
 
+### Kata_085
+7 kyu <br>
+Get Larger Number<br>
+2/10/23<br>
+
 
 
 
