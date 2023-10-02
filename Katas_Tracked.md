@@ -435,6 +435,11 @@ Number-star ladder<br>
 Get Larger Number<br>
 2/10/23<br>
 
+### Kata_086
+7 kyu <br>
+Make a function that does arithmetic<br>
+2/10/23<br>
+
 
 
 
