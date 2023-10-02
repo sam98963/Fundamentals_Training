@@ -425,6 +425,11 @@ Convert String to Camel Case<br>
 Money Money Money<br>
 2/10/23<br>
 
+### Kata_084
+7 kyu <br>
+Number-star ladder<br>
+2/10/23<br>
+
 
 
 
