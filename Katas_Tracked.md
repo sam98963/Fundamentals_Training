@@ -440,6 +440,11 @@ Get Larger Number<br>
 Make a function that does arithmetic<br>
 2/10/23<br>
 
+### Kata_087
+7 kyu <br>
+Ghostbusters - remove whitespace<br>
+2/10/23<br>
+
 
 
 
