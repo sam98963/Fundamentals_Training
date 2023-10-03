@@ -445,6 +445,13 @@ Make a function that does arithmetic<br>
 Ghostbusters - remove whitespace<br>
 2/10/23<br>
 
+### Kata_088
+7 kyu <br>
+Categorize New Member<br>
+3/10/23<br>
+Solved, then reduced code with ternary operator
+
+
 
 
 
