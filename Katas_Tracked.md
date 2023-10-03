@@ -456,6 +456,11 @@ Solved, then reduced code with ternary operator
 Consecutive Strings<br>
 3/10/23<br>
 
+### Kata_090
+6 kyu <br>
+Friend or Foe<br>
+3/10/23<br>
+
 
 
 
