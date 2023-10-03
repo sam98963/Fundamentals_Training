@@ -451,6 +451,11 @@ Categorize New Member<br>
 3/10/23<br>
 Solved, then reduced code with ternary operator
 
+### Kata_089
+6 kyu <br>
+Consecutive Strings<br>
+3/10/23<br>
+
 
 
 
