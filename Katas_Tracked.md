@@ -481,6 +481,11 @@ Check the exam<br>
 Flatten and sort an array<br>
 4/10/23<br>
 
+### Kata_095
+7 kyu <br>
+Number of divisions<br>
+4/10/23<br>
+
 
 
 
