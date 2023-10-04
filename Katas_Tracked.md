@@ -466,6 +466,11 @@ Friend or Foe<br>
 Find the missing letter<br>
 3/10/23<br>
 
+### Kata_092
+6 kyu <br>
+The highest profit wins<br>
+4/10/23<br>
+
 
 
 
