@@ -467,8 +467,13 @@ Find the missing letter<br>
 3/10/23<br>
 
 ### Kata_092
-6 kyu <br>
+7 kyu <br>
 The highest profit wins<br>
+4/10/23<br>
+
+### Kata_093
+7 kyu <br>
+Check the exam<br>
 4/10/23<br>
 
 
