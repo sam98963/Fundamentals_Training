@@ -476,6 +476,11 @@ The highest profit wins<br>
 Check the exam<br>
 4/10/23<br>
 
+### Kata_094
+7 kyu <br>
+Flatten and sort an array<br>
+4/10/23<br>
+
 
 
 
