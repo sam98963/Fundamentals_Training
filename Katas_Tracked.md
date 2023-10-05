@@ -487,7 +487,13 @@ Number of divisions<br>
 4/10/23<br>
 
 ### Kata_096
+6 kyu <br>
 Duplicate Arguements<br>
+5/10/23<br>
+
+### Kata_096
+7 kyu <br>
+Inspiring String<br>
 5/10/23<br>
 
 
