@@ -102,7 +102,12 @@ Easy<br>
 How many numbers are smaller than the current number<br>
 03/09/23<br>
 
-### Leetcode 020
+### Leetcode 021
 Easy<br>
 Majority Element<br>
+06/10/23<br>
+
+### Leetcode 022
+Medium<br>
+Majority Element II<br>
 06/10/23<br>
