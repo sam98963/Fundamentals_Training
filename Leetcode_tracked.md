@@ -101,3 +101,8 @@ Jewels and Stones<br>
 Easy<br>
 How many numbers are smaller than the current number<br>
 03/09/23<br>
+
+### Leetcode 020
+Easy<br>
+Majority Element<br>
+06/10/23<br>
