@@ -491,10 +491,15 @@ Number of divisions<br>
 Duplicate Arguements<br>
 5/10/23<br>
 
-### Kata_096
+### Kata_097
 7 kyu <br>
 Inspiring String<br>
 5/10/23<br>
+
+### Kata_098
+7 kyu <br>
+Consecutive Letters<br>
+7/10/23<br>
 
 
 
