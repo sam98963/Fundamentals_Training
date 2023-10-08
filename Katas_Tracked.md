@@ -501,6 +501,11 @@ Inspiring String<br>
 Consecutive Letters<br>
 7/10/23<br>
 
+### Kata_099
+6 kyu <br>
+Pell Numbers<br>
+8/10/23<br>
+
 
 
 
