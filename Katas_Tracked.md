@@ -506,6 +506,11 @@ Consecutive Letters<br>
 Pell Numbers<br>
 8/10/23<br>
 
+### Kata_0100
+6 kyu <br>
+Calculating String Rotation<br>
+9/10/23<br>
+
 
 
 
