@@ -111,3 +111,8 @@ Majority Element<br>
 Medium<br>
 Majority Element II<br>
 06/10/23<br>
+
+### Leetcode 023
+Easy<br>
+Number of good pairs<br>
+12/10/23<br>
