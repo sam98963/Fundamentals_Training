@@ -516,6 +516,11 @@ Calculating String Rotation<br>
 Fast Cooking Pancakes<br>
 12/10/23<br>
 
+### Kata_102
+6 kyu <br>
+Addition without carrying<br>
+12/10/23<br>
+
 
 
 
