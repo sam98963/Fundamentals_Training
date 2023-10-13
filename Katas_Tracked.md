@@ -521,6 +521,11 @@ Fast Cooking Pancakes<br>
 Addition without carrying<br>
 12/10/23<br>
 
+### Kata_103
+7 kyu <br>
+Find Factors down to a limit<br>
+13/10/23<br>
+
 
 
 
