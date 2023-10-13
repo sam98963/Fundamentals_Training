@@ -526,6 +526,11 @@ Addition without carrying<br>
 Find Factors down to a limit<br>
 13/10/23<br>
 
+### Kata_104
+7 kyu <br>
+Reduce my fraction<br>
+13/10/23<br>
+
 
 
 
