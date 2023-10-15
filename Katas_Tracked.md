@@ -531,6 +531,11 @@ Find Factors down to a limit<br>
 Reduce my fraction<br>
 13/10/23<br>
 
+### Kata_105
+6 kyu <br>
+Sort my animals<br>
+15/10/23<br>
+
 
 
 
