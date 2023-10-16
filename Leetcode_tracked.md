@@ -116,3 +116,8 @@ Majority Element II<br>
 Easy<br>
 Number of good pairs<br>
 12/10/23<br>
+
+### Leetcode 023
+Easy<br>
+Check if the sentence is Pangram<br>
+16/10/23<br>
