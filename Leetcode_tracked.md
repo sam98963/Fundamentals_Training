@@ -126,3 +126,8 @@ Check if the sentence is Pangram<br>
 Easy<br>
 Happy Number <br>
 16/10/23<br>
+
+### Leetcode 026
+Easy<br>
+Employees who met the target<br>
+17/10/23<br>
