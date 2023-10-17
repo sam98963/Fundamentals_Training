@@ -131,3 +131,8 @@ Happy Number <br>
 Easy<br>
 Employees who met the target<br>
 17/10/23<br>
+
+### Leetcode 027
+Easy<br>
+Is object empty?<br>
+17/10/23<br>
