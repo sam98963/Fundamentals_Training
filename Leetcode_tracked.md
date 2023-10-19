@@ -141,3 +141,8 @@ Is object empty?<br>
 Easy<br>
 Valid Palindrome<br>
 18/10/23<br>
+
+### Leetcode 029
+Easy<br>
+Pascals Triangle<br>
+19/10/23<br>
