@@ -536,6 +536,11 @@ Reduce my fraction<br>
 Sort my animals<br>
 15/10/23<br>
 
+### Kata_106
+6 kyu <br>
+Resultant Moment<br>
+19/10/23<br>
+
 
 
 
