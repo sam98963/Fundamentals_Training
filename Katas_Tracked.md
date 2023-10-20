@@ -541,6 +541,11 @@ Sort my animals<br>
 Resultant Moment<br>
 19/10/23<br>
 
+### Kata_107
+7 kyu <br>
+Simple remove duplicates<br>
+20/10/23<br>
+
 
 
 
