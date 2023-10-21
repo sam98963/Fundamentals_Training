@@ -551,11 +551,16 @@ Simple remove duplicates<br>
 Give me a Diamond<br>
 21/10/23<br>
 
-### Kata_108
+### Kata_109
 5 kyu <br>
 Chain Adding function<br>
 21/10/23<br>
 Required alot of googling
+
+### Kata_110
+7 kyu <br>
+Dominant array elements<br>
+21/10/23<br>
 
 
 
