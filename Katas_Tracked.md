@@ -567,6 +567,11 @@ Dominant array elements<br>
 Count sign changes<br>
 21/10/23<br>
 
+### Kata_112
+6 kyu <br>
+Bread Sando<br>
+21/10/23<br>
+
 
 
 
