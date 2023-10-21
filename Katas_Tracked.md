@@ -562,6 +562,11 @@ Required alot of googling
 Dominant array elements<br>
 21/10/23<br>
 
+### Kata_111
+7 kyu <br>
+Count sign changes<br>
+21/10/23<br>
+
 
 
 
