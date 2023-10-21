@@ -547,9 +547,15 @@ Simple remove duplicates<br>
 20/10/23<br>
 
 ### Kata_108
-7 kyu <br>
+6 kyu <br>
 Give me a Diamond<br>
 21/10/23<br>
+
+### Kata_108
+5 kyu <br>
+Chain Adding function<br>
+21/10/23<br>
+Required alot of googling
 
 
 
