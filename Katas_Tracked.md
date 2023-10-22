@@ -572,6 +572,12 @@ Count sign changes<br>
 Bread Sando<br>
 21/10/23<br>
 
+### Kata_112
+7 kyu <br>
+Even numbers in an array<br>
+21/10/23<br>
+ONE LINER FIRST TRY
+
 
 
 
