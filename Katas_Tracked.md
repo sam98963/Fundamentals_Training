@@ -583,6 +583,12 @@ ONE LINER FIRST TRY
 Spin around, touch the ground<br>
 23/10/23<br>
 
+### Kata_115
+6 kyu <br>
+sums of parts<br>
+23/10/23<br>
+Time Complexity : O(n)
+
 
 
 
