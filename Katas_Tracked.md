@@ -589,6 +589,12 @@ sums of parts<br>
 23/10/23<br>
 Time Complexity : O(n)
 
+### Kata_116
+6 kyu <br>
+Encrypt this<br>
+23/10/23<br>
+Time Complexity : O(n)
+
 
 
 
