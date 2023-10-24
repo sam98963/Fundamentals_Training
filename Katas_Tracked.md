@@ -595,6 +595,12 @@ Encrypt this<br>
 23/10/23<br>
 Time Complexity : O(n)
 
+### Kata_117
+6 kyu <br>
+Good vs Evil<br>
+24/10/23<br>
+Time Complexity : O(n) - Answer was rather verbose.
+
 
 
 
