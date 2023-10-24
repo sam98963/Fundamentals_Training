@@ -601,6 +601,12 @@ Good vs Evil<br>
 24/10/23<br>
 Time Complexity : O(n) - Answer was rather verbose.
 
+### Kata_118
+6 kyu <br>
+Weird string case<br>
+24/10/23<br>
+Time Complexity : O(n + m(number of words) * p (average length of word))
+
 
 
 
