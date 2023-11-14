@@ -611,7 +611,13 @@ Time Complexity : O(n + m(number of words) * p (average length of word))
 7 kyu <br>
 Laxative russian roulette<br>
 14/11/23<br>
-Time Complexity : O(a)
+Time Complexity : O(a) -> a being the value of roulette shots
+
+### Kata_120
+6 kyu <br>
+FizzBuzz Backwards<br>
+14/11/23<br>
+Time Complexity : O(n)
 
 
 
