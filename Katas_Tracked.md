@@ -619,6 +619,12 @@ FizzBuzz Backwards<br>
 14/11/23<br>
 Time Complexity : O(n)
 
+### Kata_120
+7 kyu <br>
+Normal FizzBuzz<br>
+14/11/23<br>
+Time Complexity : O(n)
+
 
 
 
