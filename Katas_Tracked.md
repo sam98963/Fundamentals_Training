@@ -607,6 +607,12 @@ Weird string case<br>
 24/10/23<br>
 Time Complexity : O(n + m(number of words) * p (average length of word))
 
+### Kata_119
+7 kyu <br>
+Laxative russian roulette<br>
+14/11/23<br>
+Time Complexity : O(a)
+
 
 
 
