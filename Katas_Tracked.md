@@ -643,6 +643,12 @@ Sexy Primes<br>
 15/11/23<br>
 Time Complexity : O(sqrt(max))
 
+### Kata_125
+6 kyu <br>
+Sum of prime-indexed elements<br>
+15/11/23<br>
+Time Complexity : O(n)
+
 
 
 
