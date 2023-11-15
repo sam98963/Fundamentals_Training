@@ -631,6 +631,12 @@ Arithmetic List<br>
 15/11/23<br>
 Time Complexity : O(l) -> l = list length
 
+### Kata_123
+7 kyu <br>
+Odd not Prime<br>
+15/11/23<br>
+Time Complexity : O((n/2) * sqrt(i)) -> where n is the limit and I is the iterable value.
+
 
 
 
