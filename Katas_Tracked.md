@@ -637,6 +637,12 @@ Odd not Prime<br>
 15/11/23<br>
 Time Complexity : O((n/2) * sqrt(i)) -> where n is the limit and I is the iterable value.
 
+### Kata_124
+7 kyu <br>
+Sexy Primes<br>
+15/11/23<br>
+Time Complexity : O(sqrt(max))
+
 
 
 
