@@ -649,6 +649,12 @@ Sum of prime-indexed elements<br>
 15/11/23<br>
 Time Complexity : O(n)
 
+### Kata_126
+7 kyu <br>
+Concatenated sum<br>
+15/11/23<br>
+Time Complexity : O(n)
+
 
 
 
