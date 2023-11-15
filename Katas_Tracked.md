@@ -619,11 +619,17 @@ FizzBuzz Backwards<br>
 14/11/23<br>
 Time Complexity : O(n)
 
-### Kata_120
+### Kata_121
 7 kyu <br>
 Normal FizzBuzz<br>
 14/11/23<br>
 Time Complexity : O(n)
+
+### Kata_122
+7 kyu <br>
+Arithmetic List<br>
+15/11/23<br>
+Time Complexity : O(l) -> l = list length
 
 
 
