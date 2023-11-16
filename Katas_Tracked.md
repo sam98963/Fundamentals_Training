@@ -655,6 +655,11 @@ Concatenated sum<br>
 15/11/23<br>
 Time Complexity : O(n)
 
+### Kata_127
+7 kyu <br>
+substring instance count<br>
+16/11/23<br>
+
 
 
 
