@@ -659,6 +659,10 @@ Time Complexity : O(n)
 7 kyu <br>
 substring instance count<br>
 16/11/23<br>
+### Kata_127
+7 kyu <br>
+Product of diagonal in a matrix<br>
+20/11/23<br>
 
 
 
