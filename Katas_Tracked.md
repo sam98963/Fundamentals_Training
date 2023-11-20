@@ -659,9 +659,13 @@ Time Complexity : O(n)
 7 kyu <br>
 substring instance count<br>
 16/11/23<br>
-### Kata_127
+### Kata_128
 7 kyu <br>
 Product of diagonal in a matrix<br>
+20/11/23<br>
+### Kata_129
+6 kyu <br>
+Highest Rank number in an array<br>
 20/11/23<br>
 
 
