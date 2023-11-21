@@ -146,3 +146,7 @@ Valid Palindrome<br>
 Easy<br>
 Pascals Triangle<br>
 19/10/23<br>
+### Leetcode 030
+Medium<br>
+Count nice pairs in an array<br>
+21/11/23<br>
