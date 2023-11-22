@@ -150,3 +150,9 @@ Pascals Triangle<br>
 Medium<br>
 Count nice pairs in an array<br>
 21/11/23<br>
+19/10/23<br>
+
+### Leetcode 031
+Medium<br>
+Minimize Maximum Pair Sum in Array<br>
+22/11/23<br>
