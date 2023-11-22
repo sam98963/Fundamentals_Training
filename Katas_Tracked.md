@@ -668,6 +668,11 @@ Product of diagonal in a matrix<br>
 Highest Rank number in an array<br>
 20/11/23<br>
 
+### Kata_130
+6 kyu <br>
+Required Data 1<br>
+22/11/23<br>
+
 
 
 
