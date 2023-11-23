@@ -156,3 +156,8 @@ Count nice pairs in an array<br>
 Medium<br>
 Minimize Maximum Pair Sum in Array<br>
 22/11/23<br>
+
+### Leetcode 032
+Medium<br>
+final value after operations<br>
+23/11/23<br>
