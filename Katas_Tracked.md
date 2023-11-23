@@ -673,6 +673,11 @@ Highest Rank number in an array<br>
 Required Data 1<br>
 22/11/23<br>
 
+### Kata_131
+7 kyu <br>
+Sort by example<br>
+23/11/23<br>
+
 
 
 
