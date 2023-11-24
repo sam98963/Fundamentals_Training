@@ -678,6 +678,11 @@ Required Data 1<br>
 Sort by example<br>
 23/11/23<br>
 
+### Kata_132
+7 kyu <br>
+Find the next perfect square<br>
+24/11/23<br>
+
 
 
 
