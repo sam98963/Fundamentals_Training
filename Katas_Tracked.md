@@ -683,6 +683,11 @@ Sort by example<br>
 Find the next perfect square<br>
 24/11/23<br>
 
+### Kata_133
+7 kyu <br>
+Sort<br>
+24/11/23<br>
+
 
 
 
