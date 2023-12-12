@@ -161,3 +161,8 @@ Minimize Maximum Pair Sum in Array<br>
 Medium<br>
 final value after operations<br>
 23/11/23<br>
+
+### Leetcode 033
+Easy<br>
+Maximum product of 2 elements in an array<br>
+12/12/23<br>
