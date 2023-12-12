@@ -166,3 +166,8 @@ final value after operations<br>
 Easy<br>
 Maximum product of 2 elements in an array<br>
 12/12/23<br>
+
+### Leetcode 034
+Easy<br>
+Element appearing more than 25% in sorted array<br>
+12/12/23<br>
