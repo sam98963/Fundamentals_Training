@@ -171,3 +171,8 @@ Maximum product of 2 elements in an array<br>
 Easy<br>
 Element appearing more than 25% in sorted array<br>
 12/12/23<br>
+
+### Leetcode 035
+Easy<br>
+Redistribute characters to make all string equal<br>
+30/12/23<br>
