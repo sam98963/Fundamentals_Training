@@ -688,11 +688,16 @@ Find the next perfect square<br>
 Sort<br>
 24/11/23<br>
 
-### Kata_133
+### Kata_134
 6 kyu <br>
 Valid Phone Number<br>
 25/11/23<br>
 Time Complexity : O(n)
+
+### Kata_135
+5 kyu <br>
+What's a perfect power anyway<br>
+6/01/23<br>
 
 
 
